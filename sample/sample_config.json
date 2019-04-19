@@ -1,0 +1,7 @@
+{
+	"ES_IP": "IP of ES",
+	"ES_PORT": "Port of ES",
+	"indices_to_delete": {
+		"mention_index_name_that_is_to_be deleted_here": max_age_of_index_in_days
+	}
+}
